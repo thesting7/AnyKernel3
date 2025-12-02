@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Hydrogen Kernel by rio113 / z3rokwq
+kernel.string=Hydrogen Kernel by rio113 / z3rokwq / Sting
 do.devicecheck=1
 do.modules=0
 do.systemless=1
